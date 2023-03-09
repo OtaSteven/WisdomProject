@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 import Home from './Pages/Homepage/Home';
-import EpisodeView from './Pages/episodeView/EpisodeView';
+import EpisodeView from './Pages/EpisodeView/EpisodeView';
 
 
 function App() {
